@@ -2,6 +2,9 @@
 
 Welcome to my Simple Responsive Personal Website.
 
+# Project Purpose
+This personal website is an interactive and dynamic version of my background. I aim to create a digital presence that reflects who I am, what I do, and what I am passionate about.
+
 # Features
 * A simple UI/UX Design
 * Easy page navigation

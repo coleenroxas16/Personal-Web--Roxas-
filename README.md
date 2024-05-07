@@ -20,6 +20,10 @@ This personal website is an interactive and dynamic version of my background. I 
 ![image](https://github.com/coleenroxas16/Roxas-Personal-Web/assets/168961085/95044889-4cc2-4ece-814f-f8cb5836f2cb)
 ![image](https://github.com/coleenroxas16/Roxas-Personal-Web/assets/168961085/bda52c18-5632-456d-b17f-eeed12f7c8e0)
 ![image](https://github.com/coleenroxas16/Roxas-Personal-Web/assets/168961085/2e0514e7-0e2b-4bc9-9c6c-776d63766923)
+
+# About Email JS
+EmailJS is a backend-as-a-service that gives you the tools to send emails to the users of your application directly from your client or server-side code to fit your project requirements. I chose to integrate this in my website because no server is required – you can just connect EmailJS to one of the supported email services, create an email template, and use one of our SDK libraries to trigger an email. It was more convenient. 
+
 ![image](https://github.com/coleenroxas16/Roxas-Personal-Web/assets/168961085/993cadda-d2bf-4080-b1e9-baf28aa83728)
 ![image](https://github.com/coleenroxas16/Roxas-Personal-Web/assets/168961085/e6b8c952-bd84-4a8b-873c-6e577aee4d5c)
 

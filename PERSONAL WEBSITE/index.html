@@ -1,10 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Meta tags for character set and viewport -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Title of the website -->
     <title>Roxas - Personal Website</title>
+     <!-- Link to external CSS file -->
     <link rel="stylesheet" href="style.css">
+     <!-- Link to external boxicons CSS file -->
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 </head>
 <body>
@@ -255,12 +259,16 @@
     <p class="copyright">© Princess Coleen Roxas | All Rights Reserved</p>
 </footer>
 
+    <!-- Script for email service -->
 <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
 <script>
+
+    // Initialize email service
     (function() {
         emailjs.init('EKXZWpRsqXRK3nFWK'); 
     })();
     
+    // Send message when form is submitted
     document.getElementById('contact-form').addEventListener('submit', function(event) {
         event.preventDefault();
         
@@ -272,7 +280,7 @@
             });
     });
 </script>
-
+<!-- Link to external JavaScript file -->
 <script src="script.js"></script>
 </body>
 </html>

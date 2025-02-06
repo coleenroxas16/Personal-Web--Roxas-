@@ -21,6 +21,16 @@ Contributions to this project are welcome. If you find any issues or would like 
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/5813e4d6-2862-4175-bf86-dfcb0321e672)
+![image](https://github.com/user-attachments/assets/c07dd43e-d66d-4122-8b78-67b2dfa9f111)
+![image](https://github.com/user-attachments/assets/9653aff5-1db6-43ab-b09e-9b3d9a2d25c6)
+![image](https://github.com/user-attachments/assets/de741a90-c3d8-4299-8ca8-22dcd96b4cc8)
+![image](https://github.com/user-attachments/assets/6afc2cfa-7667-43b7-bf18-522526e59e18)
+![image](https://github.com/user-attachments/assets/eca6bb0d-a714-4f42-9892-6e580452442a)
+![image](https://github.com/user-attachments/assets/63caf793-6aee-49e1-a88c-e26129bb6464)
+
+
+
+
 
 # Live Link Site
 You may access this personal website upon opening the link with vscode: https://coleenroxas16.github.io/Personal-Web--Roxas-/

@@ -32,7 +32,7 @@ Contributions to this project are welcome. If you find any issues or would like 
 ![image](https://github.com/coleenroxas16/Roxas-Personal-Web/assets/168961085/e6b8c952-bd84-4a8b-873c-6e577aee4d5c)
 
 # Live Link Site
-You may access this personal website upon opening the link with vscode: https://coleenroxas16.github.io/coleen_personal/
+You may access this personal website upon opening the link with vscode: https://coleenroxas16.github.io/Personal-Web--Roxas-/
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 

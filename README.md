@@ -34,9 +34,6 @@ Contributions to this project are welcome. If you find any issues or would like 
 # Live Link Site
 You may access this personal website upon opening the link with vscode: https://coleenroxas16.github.io/Personal-Web--Roxas-/
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
-```
 
 
 
